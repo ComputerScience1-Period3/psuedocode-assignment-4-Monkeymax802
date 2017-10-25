@@ -15,6 +15,8 @@ After the latter has played out, repeat the following:
 When it is your turn, recall what the last card put down was. 
 If you have the card or have several of the card that is one value higher than that last card:
     Place the card(s) down and say the number you are putting down followed by the name of those cards.
+        If someone says "B.S." following your play:
+            Show them the card you put down and tell them politely to take the stack into their hand.
 If you do not have the card that is one value higher than that last card:
     Place down one to four random cards, and say the number of cards you are putting down followed by the name of the correct card.
         If someone says "B.S." following your play:
@@ -22,5 +24,17 @@ If you do not have the card that is one value higher than that last card:
 If the last card was a king:
     If you have an ace or several aces:
         Place the ace(s) down and say the number you are putting down followed by "ace".
+            If someone says "B.S." following your play:
+                Show them the card you put down and tell them politely to take the stack into their hand.
     If you do not have any aces:
         Place down one to four random cards, and say the number of cards you are putting down followed by "ace".
+            If someone says "B.S." following your play:
+                Take the entire stack of cards and place them in your hand.
+    If you run out of cards at the end of your turn:
+        Exclaim that you have won the game. The game is now over.
+When it is not your turn,
+    If you do not believe a player is telling the truth when placing his or her cards:
+        Say out loud, "B.S." (or whatever you call the game in this instance)
+    If someone else runs out of cards at the end of their turn:
+        They have won, and the game is over.
+    
